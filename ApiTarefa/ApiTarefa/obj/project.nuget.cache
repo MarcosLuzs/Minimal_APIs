@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KNQB8UjBO3r/DuZXJYifGDWiUaxlZcQoNwG3cVy1BfsJfr/hmBSpk2fc9IJLYxgq/Kazt1WZ9pW9QQmxGqJnOQ==",
+  "dgSpecHash": "cTcxfqWhIxYnJL0PQM2QZxUCoRNQG2ZrSeJxy63UpXWwXFv3QpSGFDg/R86XbBVg3IypBPwdSIHQNGts7BkRqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marcos Vinicius\\OneDrive\\Documentos\\APPS\\MODS\\UDEMY\\.NET\\ApiTarefa\\ApiTarefa\\ApiTarefa.csproj",
+  "projectFilePath": "C:\\Users\\Marcos Vinicius\\OneDrive\\Área de Trabalho\\Minimal_APIs\\ApiTarefa\\ApiTarefa\\ApiTarefa.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marcos Vinicius\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.8\\microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
     "C:\\Users\\Marcos Vinicius\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.8\\microsoft.entityframeworkcore.abstractions.6.0.8.nupkg.sha512",
